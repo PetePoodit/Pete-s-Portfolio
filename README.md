@@ -3,7 +3,7 @@
 ## Works 💻
 
 ### Warnjai
-![Logo]([Screenshot-2025-01-19-202351.png](https://postimg.cc/R6C0ZqGY))
+![Logo](https://github.com/PetePoodit/Pete-s-Portfolio/blob/14ed72c2628257e00b2f96c48a07f2d3ec2b1e7c/warnjai-logo.png)
 ---
 Warnjai is the application project that i have designed with my team to compete in the Startup Thailand league 2024, It's the Application about helping people about a pms and sex problems.
 
