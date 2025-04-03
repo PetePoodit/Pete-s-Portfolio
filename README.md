@@ -10,7 +10,7 @@ Warnjai is the application project that i have designed with my team to compete 
 __Here is the link:__ ❤️‍🩹 [Warnjai's Figma Design Demo](https://www.figma.com/design/j7rTAmb4T843j6oEAGjkgJ/SEX-and-PMS-App-BETA?node-id=0-1&t=tcb9BbROWxax48W5-1) 🩷
 
 ---
-### Kasetart University's Nisit App 
+### Kasetsart University's Nisit App 
 ---
 I used to compete in a Kasetsart University's Hackathon with my team to develop a new application for student, We made it to the Top 10 round. We were tasked with designing a new feature to help university students simplify and improve their daily lives.
 
