@@ -26,6 +26,7 @@ __Here is the link:__ ✉️ [Java's Project Github](https://github.com/CS211-67
 ---
 
 ### ConcertTicket Web Design
+![Preview](https://github.com/PetePoodit/Pete-s-Portfolio/blob/main/image/concert-ticket-pt.png)
 A Concert Booking website design in Figma, A project I collaborated on with my friend. We identified that most event ticket buying websites looked outdated and were difficult to navigate, so we designed a more modern and user-friendly alternative.
 
 **Key Highlights:**
@@ -38,6 +39,7 @@ __Here is the link:__  👨🏼‍🎤[ConcertTicket Web Prototype](https://www.
 
 ---
 ### McDonald's App Redesigned
+![Preview](https://github.com/PetePoodit/Pete-s-Portfolio/blob/main/image/mcdonald-app-uxui.png)
 A practice project where I reimagined the McDonald's mobile app interface. Using the original app as inspiration, I created a more engaging and visually appealing prototype that aims to make the food ordering experience more enjoyable. The redesign focuses on bringing fun elements while maintaining the brand's iconic identity.
 
 __Here is the link:__ 🍔 [McDonald's App Redesign](https://www.figma.com/design/Mrue3QDYlvhvXjx6wQFzvV/Fake-Mcdonald-s-App-Interface?node-id=0-1&t=IqKbzTOm5eY6j1RX-1) 🍟
