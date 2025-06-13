@@ -14,7 +14,7 @@ __Here is the link:__ ❤️‍🩹 [Warnjai's Figma Design Demo](https://www.fi
 
 I used to compete in a Kasetsart University's Hackathon with my team to develop a new application for student, We made it to the Top 10 round. We were tasked with designing a new feature to help university students simplify and improve their daily lives.
 
-__Hers is the link:__ 🟢[KU Hackathon App Prototype](https://www.figma.com/design/pBDc73CBFV9sxXs05umGIL/KOBKUNKUB's-team-Figma?node-id=0-1&t=LySQsmxdkXZItPF5-1) 📱
+__Here is the link:__ 🟢[KU Hackathon App Prototype](https://www.figma.com/design/pBDc73CBFV9sxXs05umGIL/KOBKUNKUB's-team-Figma?node-id=0-1&t=LySQsmxdkXZItPF5-1) 📱
 
 ---
 ###  2nd year Java's Project
